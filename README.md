@@ -1,19 +1,17 @@
 # elixir-companies
 Repository to keep track of companies that use elixir in production
 
-
 ### Brazilian companies
-- Saraiva Educação
-- SumUp
-- Brainn.co
-- Trybe
-- Magnetis
-- Xerpa
-- Stone
 - Bcredi
+- Brainn.co
 - DeepX
+- Magnetis
 - Podium
-
+- Saraiva Educação
+- Stone
+- SumUp
+- Trybe
+- Xerpa
 
 ### Other countries
 - [Foxbox Digital](https://foxbox.com/)
