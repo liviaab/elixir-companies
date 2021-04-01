@@ -1,7 +1,9 @@
 # elixir-companies
+
 Repository to keep track of companies that use elixir in production
 
-### Brazilian companies
+## Brazilian companies
+
 - Bcredi
 - Brainn.co
 - DeepX
@@ -13,5 +15,6 @@ Repository to keep track of companies that use elixir in production
 - Trybe
 - Xerpa
 
-### Other countries
+## Other countries
+
 - [Foxbox Digital](https://foxbox.com/)
