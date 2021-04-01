@@ -10,6 +10,9 @@ Repository to keep track of companies that use elixir in production
 - Magnetis
 - Xerpa
 - Stone
+- Bcredi
+- DeepX
+- Podium
 
 
 ### Other countries
