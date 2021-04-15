@@ -18,3 +18,6 @@ Repository to keep track of companies that use elixir in production
 ## Other countries
 
 - [Foxbox Digital](https://foxbox.com/)
+
+## Cases
+- [https://elixir-lang.org/cases.html](https://elixir-lang.org/cases.html)
